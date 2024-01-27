@@ -1,8 +1,7 @@
-/* styles.module.css */
 
 .wrapper {
     max-width: 800px;
-    margin: 20px auto; /* Center the wrapper horizontally */
+    margin: 20px auto; 
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -49,6 +48,6 @@
   }
   
   .icons svg:hover {
-    color: #007bff; /* Change to your preferred hover color */
+    color: #007bff;
   }
   
